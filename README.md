@@ -37,27 +37,6 @@ This repository covers **all of these** in one place with clean Python 3 code, d
 
 ---
 
-## 🚀 How to Run
-
-### Prerequisites
-```bash
-python3 --version   # Requires Python 3.8+
-pip install -r requirements.txt
-```
-
-### Run any Python file
-```bash
-cd data-structures-for-sdet-interviews
-python3 arrays_strings/two_sum.py
-python3 sdet_specific/validate_json_schema.py
-```
-
-### Run all tests with pytest
-```bash
-pytest tests/ -v
-pytest tests/ -v --tb=short    # shorter traceback
-pytest tests/test_arrays_strings.py -v   # specific file
-```
 
 ## 🗺️ SDET Interview Roadmap
 
