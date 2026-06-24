@@ -80,18 +80,6 @@ This repository demonstrates:
 - **Testing culture** with pytest unit tests for every module
 - **Code organization** with well-structured folders and documentation
 
-Recruiters and hiring managers can navigate by topic, run the tests, and see real examples of SDET interview readiness.
-
----
-
-## 📝 Resume Bullet Point
-
-After completing this repository, add this to your resume:
-
-> **SDET Interview Preparation Project** | Python, SQL, pytest | [GitHub Link]
-> Built a comprehensive coding interview preparation repository covering 13 core topics including arrays, hashmaps, sliding window, SQL data validation, and SDET-specific utilities (JSON validation, API comparison, log parsing). Implemented 50+ coding problems with pytest unit tests and documented time/space complexity for each solution.
-
----
 
 ## 👩‍💻 For Recruiters & Interviewers
 
