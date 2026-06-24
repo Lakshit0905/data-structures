@@ -59,32 +59,6 @@ pytest tests/ -v --tb=short    # shorter traceback
 pytest tests/test_arrays_strings.py -v   # specific file
 ```
 
----
-
-## 📅 30-Day SDET Interview Preparation Plan
-
-| Week | Days | Focus |
-|------|------|-------|
-| **Week 1** | Day 1–2 | Arrays & Strings |
-| | Day 3–4 | HashMap & Dictionary |
-| | Day 5–6 | Two Pointers |
-| | Day 7 | Review + Mock Problems |
-| **Week 2** | Day 8–9 | Sliding Window |
-| | Day 10–11 | Sorting & Searching |
-| | Day 12–13 | Recursion Basics |
-| | Day 14 | Review + Mock Problems |
-| **Week 3** | Day 15–16 | Stack & Queue |
-| | Day 17–18 | Linked List Basics |
-| | Day 19–20 | Binary Search |
-| | Day 21 | Review + Mock Problems |
-| **Week 4** | Day 22–23 | SQL for SDET |
-| | Day 24–25 | SDET-Specific Coding |
-| | Day 26–27 | API Testing Logic |
-| | Day 28–29 | Full Mock Interview |
-| | Day 30 | Review Weak Areas |
-
----
-
 ## 🗺️ SDET Interview Roadmap
 
 ```
