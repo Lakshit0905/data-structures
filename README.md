@@ -10,8 +10,6 @@
 
 ## 📌 Why This Repository?
 
-SDET interviews in top US companies (Amazon, Google, Microsoft, Meta, Salesforce, etc.) test **both coding skills and QA mindset**. Unlike pure SWE interviews, SDET rounds include:
-
 - Data structure & algorithm problems (LeetCode-style, beginner/intermediate)
 - SDET-specific coding: JSON validation, log parsing, API response comparison
 - SQL queries for data validation
