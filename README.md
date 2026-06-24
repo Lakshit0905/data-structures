@@ -1,6 +1,5 @@
 # 🧪 Data Structures for SDET Interviews
 
-> A complete, beginner-to-intermediate Python interview preparation repository built for Software Development Engineers in Test (SDET) roles in the USA.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
